@@ -1,4 +1,4 @@
-apidoc
-======
+# GET /message
++ Response 200 (text/plain)
 
-apidoc
+        Hello World!
